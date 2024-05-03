@@ -1,8 +1,13 @@
-## Heidi Lantz
+## <div align="center"> Heidi Lantz </div>
 ---
-Hello! I am a 4th year Bachelor of Science student at the University of British Columbia. I am a Statistics major with a minor in Data Science and a commerce concentration. Check out some of my projects!
 
-![](https://komarev.com/ghpvc/?username=hlan22&color=blue)
+![](https://komarev.com/ghpvc/?username=hlan22&color=green)
+
+Hello! I am a 4th year Bachelor of Science student at the University of British Columbia. 
+
+I am a Statistics major with a minor in Data Science and a commerce concentration. 
+
+Check out some of my projects!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lan22)](https://github.com/anuraghazra/github-readme-stats)
 
