@@ -1,13 +1,13 @@
-## <div align="center"> Heidi Lantz </div>
+# <div align="center"> Heidi Lantz </div>
 ---
 
 ![](https://komarev.com/ghpvc/?username=hlan22&color=green)
 
-Hello! I am a 4th year Bachelor of Science student at the University of British Columbia. 
+Hello! I am a 4th year Bachelor of Science student at the University of British Columbia (UBC), in Vancouver, BC, Canada. 
 
-I am a Statistics major with a minor in Data Science and a commerce concentration. 
+I am a Statistics major with a minor in Data Science and a Commerce concentration. 
 
-Check out some of my projects!
+Check out some of my projects below!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lan22)](https://github.com/anuraghazra/github-readme-stats)
 
