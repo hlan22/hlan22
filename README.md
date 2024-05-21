@@ -3,9 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=hlan22&color=green)
 
-Hello! I am a 4th year Bachelor of Science student at the University of British Columbia (UBC), in Vancouver, BC, Canada. 
+Hello! I am a 4th year student in a Bachelor of Science at the University of British Columbia (UBC), located in Vancouver, BC, Canada. 
 
 I am a Statistics major with a minor in Data Science and a Commerce concentration. 
+
+I am currently doing research on weather extremes.
 
 Check out some of my projects below!
 
