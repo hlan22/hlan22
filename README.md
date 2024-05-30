@@ -7,13 +7,13 @@ Hello! I am a 4th year student in a Bachelor of Science at the University of Bri
 
 I am a Statistics major with a minor in Data Science and a Commerce concentration. 
 
-I am currently doing research on weather extremes.
+I am currently doing research concerning statistical analysis on weather extremes at UBC.
 
 Check out some of my projects below!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lan22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)]
 
 
 <!--
