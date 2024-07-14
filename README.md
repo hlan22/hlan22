@@ -9,24 +9,20 @@ I am a 5th year student at the University of British Columbia (UBC), located in 
 
 I am currently doing statistical undergraduate research on weather extremes at UBC.
 
-Check out some of my projects below!
+Feel free to check out some of my projects!
 
-| My Languages | My Contributions |
+| My Contributions | My Languages |
 |--------------|------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22&layout=compact&theme=onedark) | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hlan22&theme=onedark) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hlan22&theme=blue-green&hide_border=true&card_width=500)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22&layout=compact&theme=onedark) |
+
+
+
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22)](https://github.com/anuraghazra/github-readme-stats)
+SCRAPS:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)]
-
-
-
 **hlan22/hlan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
