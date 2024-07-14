@@ -3,14 +3,17 @@
 
 ![](https://komarev.com/ghpvc/?username=hlan22&color=green)
 
-Hello! I am a 4th year student in a Bachelor of Science at the University of British Columbia (UBC), located in Vancouver, BC, Canada. 
+Hello! Welcome to my GitHub :)
 
-I am a Statistics major with a minor in Data Science and a Commerce concentration. 
+I am a 5th year student at the University of British Columbia (UBC), located in Vancouver, Canada! I am a Statistics major with a minor in Data Science and a Commerce concentration (BSc). 
 
-I am currently doing research concerning statistical analysis on weather extremes at UBC.
+I am currently doing statistical undergraduate research on weather extremes at UBC.
 
 Check out some of my projects below!
 
+| My Languages | My Contributions |
+|--------------|------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22&layout=compact&theme=onedark) | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hlan22&theme=onedark) |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22)](https://github.com/anuraghazra/github-readme-stats)
