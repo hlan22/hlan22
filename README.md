@@ -7,7 +7,7 @@ Hello! Welcome to my GitHub :)
 
 I am a 5th year student at the University of British Columbia (UBC), located in Vancouver, Canada! I am a Statistics major with a minor in Data Science and a Commerce concentration (BSc). 
 
-I am currently doing statistical undergraduate research on weather extremes at UBC.
+I am currently doing statistical undergraduate research on weather extremes for UBC.
 
 Feel free to check out some of my projects!
 
@@ -21,6 +21,10 @@ Feel free to check out some of my projects!
 <!--
 SCRAPS:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)  
+
+Do this one if streak doesn't recover:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hlan22&theme=blue-green&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+Because realistically I shouldn't be expected to do work on the weekends anyways.
 
 **hlan22/hlan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
