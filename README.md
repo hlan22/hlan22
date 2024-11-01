@@ -5,11 +5,11 @@
 
 Hello! Welcome to my GitHub :)
 
-I am a 5th year student at the University of British Columbia (UBC), located in Vancouver, Canada! I am a Statistics major with a minor in Data Science and a Commerce concentration (BSc). 
+I am in my last year studying at UBC in Canada! I am a Statistics major with a minor in Data Science (BSc). 
 
-I am currently doing statistical undergraduate research on weather extremes for UBC.
+I spent my past summer doing statistical undergraduate research on weather extremes, which is what inspired me to properly set up my github. A lot of my projects are in development and therefore are private, but I hope to show a lot of them in the future on here! 
 
-Feel free to check out some of my projects!
+Feel free to reach out and say hi!
 
 | My Contributions | My Languages |
 |--------------|------------------|
