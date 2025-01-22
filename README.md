@@ -4,13 +4,13 @@
 ![](https://komarev.com/ghpvc/?username=hlan22&color=green)
 
 Hello! Welcome to my GitHub :)
-
+<!--
 I am in my last year studying at UBC in Canada! I am a Statistics major with a minor in Data Science (BSc). 
 
 I spent my past summer doing statistical undergraduate research on weather extremes, which is what inspired me to properly set up my github. A lot of my projects are in development and therefore are private, but I hope to show a lot of them in the future on here! 
 
 Feel free to reach out and say hi!
-
+-->
 | My Contributions | My Languages |
 |--------------|------------------|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hlan22&theme=blue-green&hide_border=true&card_width=500)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22&layout=compact&theme=onedark) |
