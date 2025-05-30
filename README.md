@@ -1,9 +1,12 @@
 # <div align="center"> Heidi Lantz </div>
----
 
 ![](https://komarev.com/ghpvc/?username=hlan22&color=green)
 
-Hello! Welcome to my GitHub :)
+Hello! Welcome to my GitHub 😄
+
+Please check out my [personal website](https://hlan22.github.io/my_website/) for more information about me!
+
+Feel free to message if you have any questions/interests.
 <!--
 I am in my last year studying at UBC in Canada! I am a Statistics major with a minor in Data Science (BSc). 
 
