@@ -4,23 +4,18 @@
 
 Hello! Welcome to my GitHub 😄
 
-I'm currently a systems consultant and completed my undergrad in Statistics. Please check out my [personal website](https://hlan22.github.io/my_website/) for more information about me!
-
-Feel free to message if you have any questions/interests.
+I'm a data modernization consultant after I completed my undergrad in Statistics in 2025. 
+Please check out my [personal website](https://hlan22.github.io/heid_lantz_portfolio/) for more information about me!
 
 | Git Contributions | Repo Languages |
 |--------------|------------------|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hlan22&theme=blue-green&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlan22&layout=compact&theme=onedark) |
-
-
-
 
 <!--
 SCRAPS:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlan22&show_icons=true&count_private=true)  
 
 Do this one if streak doesn't recover:
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hlan22&theme=blue-green&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 Because realistically I shouldn't be expected to do work on the weekends anyways.
